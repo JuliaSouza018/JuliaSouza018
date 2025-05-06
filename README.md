@@ -14,14 +14,14 @@ Tenho interesse em Desenvolvimento de Software, Banco de Dados e Desenvolvedor F
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-1155BA.svg?color=%231155BA&logo=linkedin&logoColor=white&style=for-the-badge&labelColor=%234C8BF5"
         />
     </a>
-    <a href="mailto:juliadesouzasilva017@gmail.com">
+ <a href="mailto:juliadesouzasilva017@gmail.com">
         <img 
             alt="E-mail" 
             title="Enviar E-mail" 
             src="https://custom-icon-badges.demolab.com/badge/Email-E1AD0E.svg?color=%23E1AD0E&logo=gmail&logoColor=white&style=for-the-badge&labelColor=%23FFD700"
         />
-    </a>
-    <a href="tel:+55(11)97834-5522">
+    </a>    
+    <a href="tel:+5511978345522">
         <img 
             alt="Telefone" 
             title="Ligar para o telefone" 

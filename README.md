@@ -2,9 +2,7 @@
 
 **`Desenvolvedora em formação`** • **`Técnica em ADS`** • **`Estudante de Engenharia da Computação`**
 
-
-Me chamo Julia de Souza Silva, sou de Itapecerica da Serra - SP e sou apaixonada por tecnologia. Concluí o Ensino Médio e o curso técnico em Análise e Desenvolvimento de Sistemas na Etec Jardim Ângela. Atualmente, curso Engenharia da Computação na Unasp.
-Tenho interesse em Desenvolvimento de Software, Banco de Dados e Desenvolvedor Frontent, com foco em criar soluções eficientes e alinhadas às necessidades do usuário. Destaco-me pela capacidade de resolver desafios técnicos, colaborar em equipe e contribuir para projetos inovadores.
+Me chamo Julia de Souza Silva, sou de Itapecerica da Serra - SP e sou apaixonada por tecnologia. Concluí o Ensino Médio e o curso técnico em Análise e Desenvolvimento de Sistemas na Etec Jardim Ângela. Atualmente, curso Engenharia da Computação na Unasp. Tenho interesse em Desenvolvimento de Software, Banco de Dados e Desenvolvedor Frontend, com foco em criar soluções eficientes e alinhadas às necessidades do usuário. Destaco-me pela capacidade de resolver desafios técnicos, colaborar em equipe e contribuir para projetos inovadores.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/julia-de-souza018">
@@ -14,7 +12,7 @@ Tenho interesse em Desenvolvimento de Software, Banco de Dados e Desenvolvedor F
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-1155BA.svg?color=%231155BA&logo=linkedin&logoColor=white&style=for-the-badge&labelColor=%234C8BF5"
         />
     </a>
- <a href="mailto:juliadesouzasilva017@gmail.com">
+    <a href="mailto:juliadesouzasilva017@gmail.com">
         <img 
             alt="E-mail" 
             title="Enviar E-mail" 
@@ -44,10 +42,8 @@ Tenho interesse em Desenvolvimento de Software, Banco de Dados e Desenvolvedor F
     </a>
 </p>
 
-
-
-
 ---
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -149,7 +145,6 @@ Tenho interesse em Desenvolvimento de Software, Banco de Dados e Desenvolvedor F
 <br/>
 <br/>
 
-
 ## 📚 Certificados
 
 - [**Certificado Técnico em Análise e Desenvolvimento de Sistemas**](#)  
@@ -165,3 +160,12 @@ No meu TCC, desenvolvi junto com meu grupo a **[Alexandria]**, uma plataforma de
 
 ### 📩 Fique à vontade para entrar em contato!  
 Estou sempre aberta a novos desafios e oportunidades para crescer e aprender mais no mundo da tecnologia.
+<details>
+  <summary>📧 Clique para ver o E-mail</summary>
+  <p>juliadesouzasilva017@gmail.com</p>
+</details>
+
+<details>
+  <summary>📞 Clique para ver o Telefone</summary>
+  <p>+55 (11) 97834-5522</p>
+</details>

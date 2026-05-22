@@ -173,10 +173,9 @@ Git e GitHub
 
 ---
 
-## 👩‍🎓 TCC - Trabalho de Conclusão de Curso
+## 💻 Projetos
 
-No meu TCC, desenvolvi junto com meu grupo a **[Alexandria]**, uma plataforma de **[Troca Gratuita de Livros]** entre usuários, inspirada na antiga Biblioteca de Alexandria. A ideia surgiu da vontade de incentivar a leitura e facilitar o acesso a obras literárias. Criamos um site e um app usando HTML, CSS, JavaScript, Firebase, Bootstrap, Google Cloud e Cordova. Durante o projeto, trabalhei bastante com lógica de programação, prazos e resolução de problemas. Foi uma experiência muito importante, tanto pelo aprendizado técnico quanto pelo trabalho em equipe.
-
+Aqui no meu repositório você encontrará projetos acadêmicos e práticos desenvolvidos ao longo da minha trajetória, envolvendo desenvolvimento web, banco de dados, lógica de programação e análise de dados. Estou sempre buscando aprender novas tecnologias e criar soluções que contribuam para meu crescimento profissional.
 ---
 
 ### 📩 Fique à vontade para entrar em contato!  

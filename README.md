@@ -10,10 +10,10 @@ Sou uma pessoa curiosa, proativa e apaixonada por tecnologia. Gosto de aprender 
 
 🚀 Áreas de interesse:
 
-Análise de Dados
-Desenvolvimento de Software
-Banco de Dados
-Power BI e Visualização de Dados
+Análise de Dados - 
+Desenvolvimento de Software - 
+Banco de Dados - 
+Power BI e Visualização de Dados - 
 Engenharia de Dados
 
 📚 Tecnologias e ferramentas:

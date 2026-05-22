@@ -2,7 +2,28 @@
 
 **`Desenvolvedora em formação`** • **`Técnica em ADS`** • **`Estudante de Engenharia da Computação`**
 
-Me chamo Julia de Souza Silva, sou de Itapecerica da Serra - SP e sou apaixonada por tecnologia. Concluí o Ensino Médio e o curso técnico em Análise e Desenvolvimento de Sistemas na Etec Jardim Ângela. Atualmente, curso Engenharia da Computação na Unasp. Tenho interesse em Desenvolvimento de Software, Banco de Dados e Desenvolvedor Frontend, com foco em criar soluções eficientes e alinhadas às necessidades do usuário. Destaco-me pela capacidade de resolver desafios técnicos, colaborar em equipe e contribuir para projetos inovadores.
+Sou estudante de Engenharia da Computação no UNASP, atualmente no 3º semestre, com formação técnica em Análise e Desenvolvimento de Sistemas pela ETEC. Tenho grande interesse nas áreas de Dados e Desenvolvimento, buscando constantemente evoluir meus conhecimentos por meio de projetos, estudos e desafios práticos.
+
+Tenho experiência com tecnologias como Python, C, HTML, CSS, JavaScript, MySQL e Power BI, além de conhecimentos em modelagem de dados, desenvolvimento Front-end e integração entre sistemas. Durante minha trajetória acadêmica, desenvolvi projetos práticos, incluindo meu TCC “Alexandria”, uma plataforma de troca gratuita de livros, onde atuei desde a estruturação do banco de dados até a integração entre front-end e back-end.
+
+Sou uma pessoa curiosa, proativa e apaixonada por tecnologia. Gosto de aprender novas ferramentas, resolver problemas e transformar ideias em soluções funcionais. Atualmente, estou em busca de oportunidades de estágio na área de tecnologia para desenvolver ainda mais minhas habilidades e adquirir experiência profissional.
+
+🚀 Áreas de interesse:
+
+Análise de Dados
+Desenvolvimento de Software
+Banco de Dados
+Power BI e Visualização de Dados
+Engenharia de Dados
+
+📚 Tecnologias e ferramentas:
+
+Python
+C
+HTML, CSS e JavaScript
+MySQL
+Power BI
+Git e GitHub
 
 <p align="left">
     <a href="www.linkedin.com/in/juliasouza-dev">

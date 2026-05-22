@@ -174,7 +174,7 @@ Git e GitHub
 ---
 
 ### 💻 Projetos
-Aqui no meu repositório você encontrará projetos acadêmicos e práticos desenvolvidos ao longo da minha trajetória, envolvendo desenvolvimento web, banco de dados, lógica de programação e análise de dados. Estou sempre buscando aprender novas tecnologias e criar soluções que contribuam para meu crescimento profissional.
+<p>Aqui no meu repositório você encontrará projetos acadêmicos e práticos desenvolvidos ao longo da minha trajetória, envolvendo desenvolvimento web, banco de dados, lógica de programação e análise de dados. Estou sempre buscando aprender novas tecnologias e criar soluções que contribuam para meu crescimento profissional.</p>
 ---
 
 ### 📩 Fique à vontade para entrar em contato!  

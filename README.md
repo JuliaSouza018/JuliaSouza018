@@ -5,7 +5,7 @@
 Me chamo Julia de Souza Silva, sou de Itapecerica da Serra - SP e sou apaixonada por tecnologia. Concluí o Ensino Médio e o curso técnico em Análise e Desenvolvimento de Sistemas na Etec Jardim Ângela. Atualmente, curso Engenharia da Computação na Unasp. Tenho interesse em Desenvolvimento de Software, Banco de Dados e Desenvolvedor Frontend, com foco em criar soluções eficientes e alinhadas às necessidades do usuário. Destaco-me pela capacidade de resolver desafios técnicos, colaborar em equipe e contribuir para projetos inovadores.
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/julia-de-souza018">
+    <a href="www.linkedin.com/in/juliasouza-dev">
         <img 
             alt="Perfil LinkedIn" 
             title="Perfil LinkedIn" 
